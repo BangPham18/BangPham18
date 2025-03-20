@@ -60,13 +60,6 @@
 
 ---
 
-## 📌 GitHub Repositories
-
-🔗 [GitHub Profile](https://github.com/BangPham18)  
-Check out my projects and feel free to collaborate!
-
----
-
 ## 📞 Contact
 
 📧 Email: [`pbang4589@gmail.com`](mailto:pbang4589@gmail.com)  
