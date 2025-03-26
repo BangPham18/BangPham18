@@ -22,7 +22,9 @@
 - **Current GPA:** `3.69/4.0`  
 - **Major-related course GPA:**  
   - Natural Language Processing: `4.0/4.0`  
-  - Machine Learning: `3.5/4.0`  
+  - Machine Learning: `3.5/4.0`
+  - Data Science: `4.0/4.0`
+  -  Application statistics: `4.0/4.0`
 
 ---
 
