@@ -19,7 +19,7 @@
 **University of Economics Ho Chi Minh City**  
 *Major: Data Science (2022 - 2025)*  
 
-- **Current GPA:** `3.69/4.0`  
+- **Current GPA:** `3.7/4.0`  
 - **Major-related course GPA:**  
   - Natural Language Processing: `4.0/4.0`  
   - Machine Learning: `3.5/4.0`
@@ -62,8 +62,9 @@
 
 ---
 
-## 📞 Contact: 0946069206
+## 📞 Contact:
 
-📧 Email: [`pbang4589@gmail.com`](mailto:pbang4589@gmail.com)  
+📧 Email: [`pbang4589@gmail.com`](mailto:pbang4589@gmail.com)
+📞 Phone: 0946069206
 📍 Ho Chi Minh City, Vietnam
 
