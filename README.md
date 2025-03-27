@@ -38,10 +38,10 @@
 ## 🛠 Skills
 
 - **Programming:** `Python`, `SQL`  
-- **Libraries & Frameworks:** `TensorFlow`, `OpenCV`  
+- **Libraries & Frameworks:** `TensorFlow`, `OpenCV`, `Pytorch`  
 - **Machine Learning & Deep Learning:**  
-  - Supervised & Unsupervised Learning (`KNN`, `SVM`, `Random Forest`)  
-  - Neural Networks (`CNN`, `Transformer`, `ViLT`, `CLIP`)  
+  - Supervised & Unsupervised Learning (`KNN`, `SVM`, `Random Forest`,...)  
+  - Neural Networks (`CNN`, `Transformer`, `ViLT`, `CLIP`,...)  
 
 ---
 
@@ -62,7 +62,7 @@
 
 ---
 
-## 📞 Contact
+## 📞 Contact: 0946069206
 
 📧 Email: [`pbang4589@gmail.com`](mailto:pbang4589@gmail.com)  
 📍 Ho Chi Minh City, Vietnam
