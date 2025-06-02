@@ -17,7 +17,7 @@
 ## 🎓 Education
 
 **University of Economics Ho Chi Minh City**  
-*Major: Data Science (2022 - 2025)*  
+*Major: Data Science (2022 - 2026)*  
 
 - **Current GPA:** `3.7/4.0`  
 - **Major-related course GPA:**  
@@ -37,7 +37,7 @@
 
 ## 🛠 Skills
 
-- **Programming:** `Python`, `SQL`  
+- **Programming:** `Python`, `SQL`, `Docker`  
 - **Libraries & Frameworks:** `TensorFlow`, `OpenCV`, `Pytorch`  
 - **Machine Learning & Deep Learning:**  
   - Supervised & Unsupervised Learning (`KNN`, `SVM`, `Random Forest`,...)  
@@ -58,7 +58,7 @@
 - **Natural Language Processing** *(1 project)*  
 - **Computer Vision** *(1 project)*  
 - **Other AI-related tasks** *(4 projects)*  
-- **Frameworks Used:** `TensorFlow`, `OpenCV`, and more  
+- **Frameworks Used:** `TensorFlow`, `OpenCV`, `PyTorch`,and more  
 
 ---
 
